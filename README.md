@@ -24,8 +24,8 @@ Hello World👋 I'm Matheus Andreoli👨‍💻
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MatAndreoli&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndreoli&count_private=true&theme=dracula"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatAndreoli&show_icons=true&count_private=true&theme=dracula"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatAndreoli&count_private=true&theme=dracula">
 </p>
 
 <h3 align="center">
